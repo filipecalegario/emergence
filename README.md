@@ -16,4 +16,4 @@ References about emergence, emergent properties, emergent behaviour
 * The Computational Beauty of Nature
 * Self-organization
 * Complexity
-* BOID
+* Boids
