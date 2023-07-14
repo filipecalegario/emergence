@@ -13,3 +13,5 @@ References about emergence, emergent properties, emergent behaviour
 * Conway's Game of Life
 * Nature of Code
 * The Computational Beauty of Nature
+* Self-organization
+* Complexity
