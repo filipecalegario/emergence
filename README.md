@@ -10,4 +10,6 @@ References about emergence, emergent properties, emergent behaviour
 
 * Swarm Intelligence
 * Agents Simulation: NetLogo
-* 
+* Conway's Game of Life
+* Nature of Code
+* The Computational Beauty of Nature
