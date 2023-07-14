@@ -7,7 +7,8 @@ References about emergence, emergent properties, emergent behaviour
 * [BOOK] [Turtles, Termites, and Traffic Jams](https://mitpress.mit.edu/9780262680936/turtles-termites-and-traffic-jams/)
 * [PAGE] [Boids (Flocks, Herds, and Schools: a Distributed Behavioral Model)](http://www.red3d.com/cwr/boids/)
 * [LIVE DEMO] [NetLogo Web: Ants](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Ants.nlogo)
-* [LIVE DEMO] [NetLogo Web: Flocking](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Flocking.nlogo) 
+* [LIVE DEMO] [NetLogo Web: Flocking](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Flocking.nlogo)
+* [ARTICLE] [Emergence: A unifying theme for 21st century science | by Santa Fe Institute | Foundations & Frontiers of Complexity | Medium](https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e) 
 
 ## Inbox
 
