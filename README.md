@@ -20,4 +20,5 @@ References about emergence, emergent properties, emergent behaviour
 * Self-organization
 * Complexity
 * Boids
-* [(1249) Simulating evolution using social bots with multilayer perceptron - YouTube](https://www.youtube.com/watch?v=GvEywP8t12I&list=PLtRlzr3FnnND8MPabBticRQVaZi1v9XoH) 
+* [(1249) Simulating evolution using social bots with multilayer perceptron - YouTube](https://www.youtube.com/watch?v=GvEywP8t12I&list=PLtRlzr3FnnND8MPabBticRQVaZi1v9XoH)
+* [(1249) Alien Biospheres - YouTube](https://www.youtube.com/playlist?list=PL6xPxnYMQpquNuaEffJzjGjMsr6VktCYl) 
